@@ -1,0 +1,20 @@
+.modalImage {
+  width: 70%;
+  height: auto;
+  object-fit: scale-down;
+}
+.modalContent {
+  position: relative;
+  text-align: center;
+  max-width: 90vw;
+  max-height: 90vh;
+}
+
+.modalDescription {
+  display: flex;
+  gap: 20px;
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px;
+}
